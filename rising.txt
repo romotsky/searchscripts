@@ -1,0 +1,94 @@
+keyword	value	subject	related_queries
+amazon	amazon cyber monday 2019	Breakout	rising
+amazon	amazon prime day 2019	Breakout	rising
+amazon	amazon rainforest fire	+5,000%	rising
+amazon	amazon black friday ad 2019	+2,700%	rising
+amazon	modern love amazon	+1,100%	rising
+amazon	amazon fires	+500%	rising
+amazon	hanna amazon	+500%	rising
+amazon	best amazon prime day deals 2019	+500%	rising
+amazon	the boys amazon	+350%	rising
+amazon	kohls amazon return	+300%	rising
+amazon	amazon a to z	+250%	rising
+amazon	amazon rainforest	+250%	rising
+amazon	amazon moment	+190%	rising
+amazon	amazon forest	+140%	rising
+amazon	atoz amazon	+130%	rising
+amazon	amazon moments login	+100%	rising
+amazon	amazon mytv	+80%	rising
+amazon	amazon smart plug	+70%	rising
+amazon	amazon jobs near me	+70%	rising
+amazon	amazon smile login	+70%	rising
+amazon	amazon orders	+70%	rising
+amazon	amazon returns	+50%	rising
+amazon	amazon locker near me	+50%	rising
+amazon	amazon force	+50%	rising
+amazon	amazon smile prime	+50%	rising
+apple	benz	Breakout	rising
+apple	loans	Breakout	rising
+apple	bmw	Breakout	rising
+apple	apple music replay	+4,250%	rising
+apple	apple music replay 2019	+4,100%	rising
+apple	servant apple tv	+3,600%	rising
+apple	series 5 apple watch	+3,350%	rising
+apple	apple replay	+2,450%	rising
+apple	apple tv plus	+2,300%	rising
+apple	apple iphone 11	+2,150%	rising
+apple	cosmic crisp apple	+2,100%	rising
+apple	apple airpods pro	+2,000%	rising
+apple	apple keynote 2019	+1,800%	rising
+apple	apple event 2019	+1,700%	rising
+apple	apple arcade	+1,650%	rising
+apple	apple watch 5	+1,500%	rising
+apple	apple pro stand	+1,450%	rising
+apple	apple cup 2019	+1,200%	rising
+apple	apple monitor stand	+1,050%	rising
+apple	apple news plus	+700%	rising
+apple	apple 11	+600%	rising
+apple	apple card benefits	+600%	rising
+apple	apple pencil 1st gen	+550%	rising
+apple	see apple tv	+350%	rising
+apple	apple streaming service	+250%	rising
+netflix	netflix august 2019	Breakout	rising
+netflix	netflix january 2020	Breakout	rising
+netflix	netflix june 2019	Breakout	rising
+netflix	virgin river netflix	Breakout	rising
+netflix	netflix may 2019	Breakout	rising
+netflix	netflix july 2019	Breakout	rising
+netflix	extremely wicked on netflix	Breakout	rising
+netflix	netflix april 2019	Breakout	rising
+netflix	netflix october 2019	Breakout	rising
+netflix	marriage story netflix	Breakout	rising
+netflix	messiah netflix	Breakout	rising
+netflix	netflix unbelievable	Breakout	rising
+netflix	secret obsession netflix	+4,800%	rising
+netflix	netflix march 2019	+4,800%	rising
+netflix	fractured netflix	+4,700%	rising
+netflix	dead to me netflix	+4,500%	rising
+netflix	brene brown netflix	+4,450%	rising
+netflix	marianne netflix	+4,400%	rising
+netflix	northern rescue netflix	+4,050%	rising
+netflix	christina applegate netflix	+3,500%	rising
+netflix	aaron hernandez netflix	+3,400%	rising
+netflix	extremely wicked netflix	+3,350%	rising
+netflix	tall girl netflix	+3,100%	rising
+netflix	the messiah netflix	+2,950%	rising
+netflix	unbelievable netflix cast	+2,900%	rising
+google	google pixel 3a	Breakout	rising
+google	google stadia	Breakout	rising
+google	google pixel 4	+1,900%	rising
+google	avengers endgame google drive	+1,550%	rising
+google	spotify google home mini free	+650%	rising
+google	google nest	+250%	rising
+google	search google or type a url	+200%	rising
+google	hey google	+120%	rising
+google	snake google	+110%	rising
+google	google fi	+90%	rising
+google	google translate spanish to english	+70%	rising
+google	google ads	+70%	rising
+google	google duo	+70%	rising
+google	google finance	+70%	rising
+google	google solitaire	+60%	rising
+google	google underwater	+60%	rising
+google	google baseball	+50%	rising
+google	google cloud console	+50%	rising
